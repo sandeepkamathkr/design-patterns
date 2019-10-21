@@ -1,9 +1,5 @@
-<h1>SOLID Design Principles</h1>
+# SOLID Design Principles
 
-<hr />
+* [Design Principles](design-patterns)
+  * [Single Resposibility Principle](design-patterns/SOLID Design Principles/Single Responsibility Principle (SRP)/src/com/srp/)
 
-<p>Design Principles:</p>
-
-<ul>
-<li>Single Resposibility Principle</li>
-</ul>
